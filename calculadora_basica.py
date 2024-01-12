@@ -28,7 +28,7 @@ if __name__ == "__main__":
     print("21 / 7 =", Calculadora.dividir_dois_numeros(21, 7))
     print("10 / 0 =", Calculadora.dividir_dois_numeros(10, 0))
     print("1 + -5 =", Calculadora.somar_dois_numeros(1, -5)) 
-    print("2 *cls -30 =", Calculadora.multiplicar_dois_numeros(2, -30))
+    print("2 * -30 =", Calculadora.multiplicar_dois_numeros(2, -30))
     print("(-21) / 7 =", Calculadora.dividir_dois_numeros(-21, 7))  
     print("-10 / 0 =", Calculadora.dividir_dois_numeros(-10, 0))
 
